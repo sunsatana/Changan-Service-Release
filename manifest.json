@@ -1,9 +1,9 @@
 {
-  "version": "0.11.1",
-  "tagName": "v0.11.1",
-  "releaseName": "Changan Service 0.11.1",
-  "apkUrl": "https://github.com/sunsatana/Changan-Service-Release/releases/download/v0.11.1/Changan-Service-Monitor-v0.11.1-20261027-release.apk",
-  "sha256": "6a08afef7bd374556f4208d9106ff8b7bc3d8345c3d376f5d1164608c8710e83",
-  "htmlUrl": "https://github.com/sunsatana/Changan-Service-Release/releases/tag/v0.11.1",
-  "signature": "oNQzd+enObIVXEPWH9+JnGOSEtrdFDbzODOSEFxwpREWsEok1G5SOtOJ1XSDH9WOD8RtOBNpuRt+S2tZtog9AQ=="
+  "version": "0.11.3",
+  "tagName": "v0.11.3",
+  "releaseName": "Changan Service 0.11.3",
+  "apkUrl": "https://github.com/sunsatana/Changan-Service-Release/releases/download/v0.11.3/Changan-Service-Monitor-v0.11.3-20261027-release.apk",
+  "sha256": "712e39211359a2f16cc8bf82bef045df79f0cb6481c7bb656cba26906243ff9c",
+  "htmlUrl": "https://github.com/sunsatana/Changan-Service-Release/releases/tag/v0.11.3",
+  "signature": "u024lziwCqOS+nOJi88/MaONx9NC9oxMzvYMVsRMur6ATjfTLrxWhmsjWHVYcYopvzHit5XVW7Nm267F9/FzCw=="
 }
